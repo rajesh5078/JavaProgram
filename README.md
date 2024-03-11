@@ -1,3 +1,4 @@
 # JavaProgram
 This is my 1st Git Repo.
-Author- Rajesh
+<br>
+Author- Rajesh Mohanty
